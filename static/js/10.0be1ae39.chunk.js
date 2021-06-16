@@ -1,2 +1,0 @@
-(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[10],{166:function(t,s,e){"use strict";e.r(s);var n=e(1),i=(e(0),e(20));s.default=function(){return Object(n.jsx)(i.a,{title:"Projects",description:"Learn about Anchit Jain's projects."})}}}]);
-//# sourceMappingURL=10.0be1ae39.chunk.js.map
